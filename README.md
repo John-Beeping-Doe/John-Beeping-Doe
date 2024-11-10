@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Rust programming language.
 - 🌱 I’m currently learning to code in general after doing networking for a good while.
 - 💞️ I’m looking to collaborate on ... I don't know yet. 
-- 📫 How to reach me ... not sure what to put here.
+- 📫 How to reach me ... via GitHub.
 - 😄 Pronouns: ... Mr./Sir/Dude
 - ⚡ Fun fact: Yes, please!
 
